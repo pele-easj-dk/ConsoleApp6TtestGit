@@ -5,4 +5,7 @@ Console.WriteLine("Endnu en linje");
 
 Console.WriteLine("Dette er peters tilføjelse");
 
+Console.WriteLine("Flere peter linjer");
+Console.WriteLine("Dette er peters tilføjelse");
+
 Console.WriteLine("En master tilføjelse");
