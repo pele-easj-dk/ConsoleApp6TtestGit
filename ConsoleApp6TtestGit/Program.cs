@@ -3,3 +3,5 @@ Console.WriteLine("Dette er master ");
 
 
 Console.WriteLine("Dette er peters tilføjelse");
+
+Console.WriteLine("Flere peter linjer");
